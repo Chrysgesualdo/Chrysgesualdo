@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/soopertramp">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=700&height=100&lines=;+%7C Research Associate and Psychology Expert %7C" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=700&height=100&lines=;+%7C Data Scientist and Psychology Expert %7C" alt="Typing SVG" />
     </a>
 </p>
 
@@ -13,17 +13,18 @@
 </p>
 
 ## 👀 I’m interested in:
-- Psychological Research
-- Data Analysis
-- Behavioral Science
+- Data Science
+- Machine Learning
+- Statistical Analysis
 - Health Psychology
 
 ## 🌱 I’m currently learning and working on:
-- Research methodologies
-- Publishing findings
+- Advanced Data Science Techniques
+- Publishing Data-Driven Research Findings
 
 ## 💞️ I’m looking to collaborate on:
-- Research projects in psychology and health sciences
+- Data Science Projects
+- Research in Psychology and Health Sciences
 
 ## 📚 Education:
 - **Doctorate (Ph.D.) in Psychology** – Magna cum laude
@@ -53,7 +54,7 @@
   - Managed and coordinated palliative care for terminally ill patients
   - Provided end-of-life counseling for caregivers
 
-## :phone: Connect with me:
+## 📞 Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/chrysgesualdo/" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="chrys-gesualdo LinkedIn" height="50" width="120" />
@@ -62,6 +63,7 @@
 
 ## 🛠 Skills and Tools:
 <p align="center">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" alt="R">
     <img src="https://img.shields.io/badge/SPSS-%231F8ACB.svg?&style=for-the-badge&logo=IBM&logoColor=white" alt="SPSS">
     <img src="https://img.shields.io/badge/Microsoft%20365-%232B579A.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365">
@@ -80,12 +82,8 @@
 </p>
 
 <p align="center">  
-    <a href="https://user-badge.committers.top/india_private/soopertramp"><img src="https://user-badge.committers.top/india_private/soopertramp.svg" alt="Committers Badge"></a> •
+    <a href="https://user-badge.committers.top/india_private/Chrysgesual"><img src="https://user-badge.committers.top/india_private/soopertramp.svg" alt="Committers Badge"></a> •
     <img src="https://img.shields.io/github/followers/Chrysgesualdo?label=Followers&style=social" alt="GitHub followers"> •
     <img src="https://img.shields.io/github/stars/Chrysgesualdo?label=Stars" alt="GitHub stars"> •
     <a href="https://github.com/sponsors/Chrysgesualdo"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="GitHub Sponsor"></a>
 </p>
-
-
-
-
