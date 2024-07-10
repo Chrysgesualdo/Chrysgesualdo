@@ -30,13 +30,7 @@ Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.web
  
      Research projects in psychology and health sciences.
 
- 📫 How to reach me:
 
-     Mail - chrysgesualdo@gmail.com
-     
-     LinkedIn - Chrys Gesualdo
-  
-     Twitter - @chrysgesualdo
   
 
 
