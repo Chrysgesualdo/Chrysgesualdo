@@ -1,10 +1,9 @@
 <h1 align="center">
     Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Chrys Gesualdo</b>
 </h1>
-
 <p align="center">
-    <a href="https://github.com/soopertramp">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=000000FF&width=700&height=100&lines=;+%7C Data Scientist and Psychology Expert %7C" alt="Typing SVG" />
+    <a href="https://github.com/Chrysgesualdo">
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=0000FF&width=700&height=100&lines=;+%7C Data Scientist and Psychology Expert %7C" alt="Typing SVG" />
     </a>
 </p>
 
