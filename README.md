@@ -1,5 +1,5 @@
 <h1 align="center">
-*Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Chrys Gesualdo</b>
+Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Chrys Gesualdo</b>
 
 </h1> 
 
