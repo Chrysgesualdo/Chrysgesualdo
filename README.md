@@ -42,7 +42,7 @@ Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.web
 
 ## :phone: Connect with me:
  
-<a href="https://www.linkedin.com/in/chrys-gesualdo/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="chrys-gesualdo LinkedIn" height="50" width="120" /></a> <br>
+<a href="https://www.linkedin.com/in/chrysgesualdo/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="chrys-gesualdo LinkedIn" height="50" width="120" /></a> <br>
   <br>
 
 
