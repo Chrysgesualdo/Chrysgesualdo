@@ -71,26 +71,27 @@
 
 ## 🛠 Skills and Tools:
 - Research Design
+- Research Design
+- Experimental Design
+- Hypothesis Testing
+- Regression Analysis
 - Data Collection
-- SPSS
-- Project Management
-- Qualtrics
-- Python
-- R
-- SQL (in progress)
-- Tableau (in progress)
-- Data Analysis
 - Data Wrangling
 - Data Cleaning
-- Exploratory Data Analysis
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Qualtrics
+- SQL (in progress)
+- SPSS
+- Python
+- R
+- Tableau (in progress)
 - Data Visualization
 - Data Storytelling
 - Statistics
-- Experimental Design
-- Regression Analysis
-- WordPress Development
-- Hypothesis Testing
 - Machine Learning (in progress)
+- Project Management
+- WordPress Development
 - Scientific Writing
 - Technical Writing
 - Presentation Skills
