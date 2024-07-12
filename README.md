@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="34px"> I'm <b>Chrys Gesualdo</b>
+    Hello, I'm <b>Chrys Gesualdo</b>
 </h1>
 <p align="center">
     <a href="https://github.com/Chrysgesualdo">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=0000FF&width=700&height=100&lines=;+%7C Data Scientist and Psychology Expert %7C" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=0000FF&center=true&vCenter=true&width=700&height=100&lines=;+%7C+Psychologist+%26+Data+Scientist+%7C" alt="Typing SVG" />
     </a>
 </p>
 
@@ -11,17 +11,17 @@
     <img src="https://komarev.com/ghpvc/?username=Chrysgesualdo&label=Profile%20views&color=0e75b6&style=flat" alt="Chrys's Profile Views">
 </p>
 
-## 👀 I’m interested in:
+## 🔍 I’m interested in:
 - Data Science
 - Machine Learning
 - Statistical Analysis
-- Health Psychology
+- Psychology and Health Sciences
 
-## 🌱 I’m currently learning and working on:
+## 📝 I’m currently working on:
 - Advanced Data Science Techniques
 - Publishing Data-Driven Research Findings
 
-## 💞️ I’m looking to collaborate on:
+## 📊 I’m looking to collaborate on:
 - Data Science Projects
 - Research in Psychology and Health Sciences
 
@@ -34,6 +34,8 @@
   - Minors: Business Management & French, Manhattanville College, New York, USA (2010-2014)
 - **Term Abroad** - Université Paul-Valéry III, Montpellier, France (08-12/2012)
 - **Primary & Secondary School** - Americas Bicultural School, Santo Domingo, Dominican Republic (1994-2010)
+- **Master of Science in Data Science**
+  - Starting August 2024 (Expected August 2025), [Institution]
 
 ## 💼 Work Experience:
 - **Research Associate**, Forel Clinic, Zürich, Switzerland (01/2024 - Present)
@@ -45,13 +47,20 @@
 - **Psychological Counselor**, Ambulante Betreuungsdienst, Mainz, Germany (09/2019 – 12/2023)
   - Provide psychological counseling to disabled youth and adults
   - Design and deliver scientifically proven interventions
-  - Evaluate intervention’s effects on client's quality of life
+  - Evaluate interventions’ effects on clients' quality of life
 - **Guest Researcher**, Universidad del Norte, Barranquilla, Colombia (07/2022 - 10/2022)
   - Designed and conducted a cross-cultural study
   - Collected and analyzed data for related publications
-- **Palliative Care Case Manager & Psychologist**, Clínica Corazones Unidos, Santo Domingo, Dominican Republic (10//2018 - 06/2019)
-  - Managed and coordinated palliative care for terminally ill patients
-  - Provided end-of-life counseling for caregivers
+- **Researcher & Intervention Design Intern**, DREAM Project, Puerto Plata, Dominican Republic (01/2018 - 09/2018)
+  - Evaluated an HIV prevention program targeting at-risk youth
+  - Designed and imparted evidence-based parent-child intervention
+  - Statistically evaluated intervention effects on behavior change
+- **Neuropsychology Researcher**, Ruhr Universität, Bochum, Germany (10/2016 - 04/2017)
+  - Researched spatial navigation in relation to Alzheimer’s Disease
+  - Obtained practical experience on performing fMRI and EEG
+- **Global Learning & Development Support Intern**, Pfizer Inc., New York, USA (06/2012 - 08/2012)
+  - Translated training material and organized documentation of version control processes for pharmaceutical distributors
+  - Created process manuals for training and leadership facilitators
 
 ## 📞 Connect with me:
 <p align="center">
@@ -61,16 +70,39 @@
 </p>
 
 ## 🛠 Skills and Tools:
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/SPSS-%231F8ACB.svg?&style=for-the-badge&logo=IBM&logoColor=white" alt="SPSS">
-    <img src="https://img.shields.io/badge/Microsoft%20365-%232B579A.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365">
-    <img src="https://img.shields.io/badge/Google%20Suite-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Google Suite">
-    <img src="https://img.shields.io/badge/Web%20Design-%23404D59.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="Web Design">
-</p>
+- Research Design
+- Data Collection
+- SPSS
+- Project Management
+- Qualtrics
+- Python
+- R
+- SQL (in progress)
+- Tableau (in progress)
+- Data Analysis
+- Data Wrangling
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Data Storytelling
+- Statistics
+- Experimental Design
+- Regression Analysis
+- WordPress Development
+- Hypothesis Testing
+- Machine Learning (in progress)
+- Scientific Writing
+- Technical Writing
+- Presentation Skills
 
-##
+## 🏆 Achievements:
+- Research presentations at international conferences
+- Research SVpend GRK 2271
+- Research SVpend IGSN 
+- Community Service Scholarship 
+- InternaVonal Leadership Award
+- Board of Trustees Scholarship
+- Dean’s Award
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Chrysgesualdo&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Trophy">
