@@ -27,7 +27,7 @@
 - **Master of Science in Psychology**
   - Track: Development & Health – Health Promotion & Behavior Change, University of Amsterdam, Netherlands (2017-2018)
 - **Bachelor of Arts in Psychology**
-  - Minors: Business Management & French, Manhattanville College, New York, USA (2010-2014)
+  - Minors: Business Management & French, Manhattanville University , New York, USA (2010-2014)
 - **Term Abroad** - Université Paul-Valéry III, Montpellier, France (08-12/2012)
 - **Master of Science in Data Science**
   - Eastern University, Pennsylvania, USA (August 2024-Expected August 2025)
@@ -115,6 +115,14 @@
 - Technical Writing
 - Presentation Skills
 
+
+## 🗣️ Conferences
+- Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
+- Panelist at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
+- Attended Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
+- [ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
+
+
 ## 🎖️ Achievements:
 - 05/2020 - 09/2023 Research Stipend GRK 2271 - University of Marburg, Germany
 - 10/2016 - 04/2017 Research Stipend IGSN - University of Marburg, Germany
@@ -123,13 +131,6 @@
 - 08/2010 - 05/2014 Board of Trustees Scholarship - Manhattanville College, USA
 - 01/2012 - 12/2012 Dean’s Award - Manhattanville College, USA
 - 05/2014
-
-
-## 🗣️ Conferences
-- Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
-- Panelist at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
-- Attended Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
-- [ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Chrysgesualdo&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Trophy">
