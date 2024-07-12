@@ -97,13 +97,13 @@
 - Presentation Skills
 
 ## 🏆 Achievements:
-- Research presentations at international conferences
-- Research SVpend GRK 2271
-- Research SVpend IGSN 
-- Community Service Scholarship 
-- InternaVonal Leadership Award
-- Board of Trustees Scholarship
-- Dean’s Award
+- 05/2020 - 09/2023 Research Stipend GRK 2271 - University of Marburg, Germany
+- 10/2016 - 04/2017 Research Stipend IGSN - University of Marburg, Germany
+- 08/2010 - 05/2014 Duchesne Center Community Service Scholarship - Manhattanville University, USA
+- 08/2010 - 05/2014 InternaVonal Leadership Award - Manhattanville University, USA
+- 08/2010 - 05/2014 Board of Trustees Scholarship - Manhattanville University, USA
+- 01/2012 - 12/2012, Dean’s Award - Manhattanville University, USA
+- 05/2014
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Chrysgesualdo&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Trophy">
