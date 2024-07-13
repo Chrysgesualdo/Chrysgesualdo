@@ -90,11 +90,12 @@
 </p>
 
 ## 🛠 Skills and Tools:
-### Programming Languages
+
+ Programming Languages
 - Python
 - R
 
-### Data Analysis and Visualization
+Data Analysis and Visualization
 - SPSS Statistics
 - SQL (in progress)
 - Tableau (in progress)
@@ -103,7 +104,7 @@
 - Matplotlib
 - Data Storytelling
 
-### Research and Experimental Design
+ Research and Experimental Design
 - Research Design and Execution
 - Experimental Research
 - Longitudinal Research
@@ -116,25 +117,25 @@
 - Data Wrangling
 - Data Cleaning
 
-### Development Tools
+Development Tools
 - Jupyter Notebooks
 - WordPress Development
 
-### Version Control
+Version Control
 - Git
 
-### Techniques
+Techniques
 - Statistics
 - Machine Learning (in progress)
 
-### Project Management and Communication
+Management and Communication
 - Project Management Skills
 - Budget Management
 - Scientific Writing
-- Technical Writing
+- Technical Writingv \5EYI8PUPY9SG R
 - Presentation Skills
 
-### Academia
+Academia
 - Teaching
 - Supervision of Student Thesis
 
