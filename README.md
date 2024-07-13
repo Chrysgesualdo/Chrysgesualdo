@@ -29,15 +29,13 @@
 - **Bachelor of Arts in Psychology**
   - Minors: Business Management & French, Manhattanville University , New York, USA (2010-2014)
 - **Term Abroad** - Université Paul-Valéry III, Montpellier, France (08-12/2012)
-- **Master of Science in Data Science**
-  - Eastern University, Pennsylvania, USA (August 2024-Expected August 2025)
 
 ## 💼 Work Experience:
 ### 01/2024 - Present: Research Associate
 **Forel Clinic**, Zürich, Switzerland
 - Conduct scientific research and analyze data related to addiction
 
-### 05/2020 - Present: Research & Teaching Associate
+### 05/2020 - 04/2024: Research & Teaching Associate
 **Philipps-University of Marburg**, Germany
 - Design, execute, and publish research in health psychology
 - Develop and teach seminars to Bachelor students
@@ -81,6 +79,7 @@
 **Pfizer Inc.**, New York, USA
 - Translated training material and organized documentation of version control processes for pharmaceutical distributors
 - Created process manuals for training and leadership facilitators
+
 ## 📞 Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/chrysgesualdo/" target="_blank">
@@ -88,40 +87,62 @@
     </a>
 </p>
 
-
 ## 🛠 Skills and Tools:
-- Research Design
-- Experimental Design
+### Programming Languages
+- Python
+- R
+
+### Data Analysis and Visualization
+- SPSS Statistics
+- SQL (in progress)
+- Tableau (in progress)
+- NumPy
+- Pandas
+- Matplotlib
+- Data Storytelling
+
+### Research and Experimental Design
+- Research Design and Execution
+- Experimental Research
+- Longitudinal Research
+- Meta-Analysis
 - Hypothesis Testing
 - Regression Analysis
+- Exploratory Data Analysis
+- Qualtrics
 - Data Collection
 - Data Wrangling
 - Data Cleaning
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Qualtrics
-- SQL (in progress)
-- SPSS Statistics
-- Python
-- R
-- Tableau (in progress)
-- Data Visualization
-- Data Storytelling
+
+### Development Tools
+- Jupyter Notebooks
+- WordPress Development
+
+### Version Control
+- Git
+
+### Techniques
 - Statistics
 - Machine Learning (in progress)
-- Project Management
-- WordPress Development
+
+### Project Management and Communication
+- Project Management Skills
+- Budget Management
 - Scientific Writing
 - Technical Writing
 - Presentation Skills
 
+### Academia
+- Teaching
+- Supervision of Student Thesis
 
 ## 🗣️ Conferences
 - Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
 - Panelist at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
 - Attended Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
-- [ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
 
+## 📖 Publications
+[ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
 
 ## 🎖️ Achievements:
 - 05/2020 - 09/2023 Research Stipend GRK 2271 - University of Marburg, Germany
@@ -129,8 +150,7 @@
 - 08/2010 - 05/2014 Duchesne Center Community Service Scholarship - Manhattanville College, USA
 - 08/2010 - 05/2014 International Leadership Award - Manhattanville College, USA
 - 08/2010 - 05/2014 Board of Trustees Scholarship - Manhattanville College, USA
-- 01/2012 - 12/2012 Dean’s Award - Manhattanville College, USA
-- 05/2014
+- 01/2012 - 12/2012, 05/2014 Dean’s Award - Manhattanville College, USA
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Chrysgesualdo&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Trophy">
