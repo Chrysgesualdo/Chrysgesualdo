@@ -88,56 +88,72 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="chrys-gesualdo LinkedIn" height="50" width="120" />
     </a>
 </p>
+<h2>🛠 Skills and Tools:</h2>
 
-## 🛠 Skills and Tools:
+<h4>Programming Languages</h5>
+<ul>
+    <li>Python</li>
+    <li>R</li>
+</ul>
 
- Programming Languages
-- Python
-- R
+<h4>Data Analysis and Visualization</h5>
+<ul>
+    <li>SPSS Statistics</li>
+    <li>SQL (in progress)</li>
+    <li>Tableau (in progress)</li>
+    <li>NumPy</li>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>Data Storytelling</li>
+</ul>
 
-Data Analysis and Visualization
-- SPSS Statistics
-- SQL (in progress)
-- Tableau (in progress)
-- NumPy
-- Pandas
-- Matplotlib
-- Data Storytelling
+<h5>Research and Experimental Design</h5>
+<ul>
+    <li>Research Design and Execution</li>
+    <li>Experimental Research</li>
+    <li>Longitudinal Research</li>
+    <li>Meta-Analysis</li>
+    <li>Hypothesis Testing</li>
+    <li>Regression Analysis</li>
+    <li>Exploratory Data Analysis</li>
+    <li>Qualtrics</li>
+    <li>Data Collection</li>
+    <li>Data Wrangling</li>
+    <li>Data Cleaning</li>
+</ul>
 
- Research and Experimental Design
-- Research Design and Execution
-- Experimental Research
-- Longitudinal Research
-- Meta-Analysis
-- Hypothesis Testing
-- Regression Analysis
-- Exploratory Data Analysis
-- Qualtrics
-- Data Collection
-- Data Wrangling
-- Data Cleaning
+<h5>Development Tools</h5>
+<ul>
+    <li>Jupyter Notebooks</li>
+    <li>WordPress Development</li>
+</ul>
 
-Development Tools
-- Jupyter Notebooks
-- WordPress Development
+<h5>Version Control</h5>
+<ul>
+    <li>Git</li>
+</ul>
 
-Version Control
-- Git
+<h5>Techniques</h5>
+<ul>
+    <li>Statistics</li>
+    <li>Machine Learning (in progress)</li>
+</ul>
 
-Techniques
-- Statistics
-- Machine Learning (in progress)
+<h5>Management and Communication</h5>
+<ul>
+    <li>Project Management Skills</li>
+    <li>Budget Management</li>
+    <li>Scientific Writing</li>
+    <li>Technical Writing</li>
+    <li>Presentation Skills</li>
+</ul>
 
-Management and Communication
-- Project Management Skills
-- Budget Management
-- Scientific Writing
-- Technical Writingv \5EYI8PUPY9SG R
-- Presentation Skills
+<h5>Academia</h5>
+<ul>
+    <li>Teaching</li>
+    <li>Supervision of Student Thesis</li>
+</ul>
 
-Academia
-- Teaching
-- Supervision of Student Thesis
 
 ## 🗣️ Conferences
 - Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
