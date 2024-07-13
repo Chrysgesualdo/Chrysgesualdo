@@ -90,13 +90,13 @@
 </p>
 <h2>🛠 Skills and Tools:</h2>
 
-<h4>Programming Languages</h5>
+<h5>Programming Languages</h5>
 <ul>
     <li>Python</li>
     <li>R</li>
 </ul>
 
-<h4>Data Analysis and Visualization</h5>
+<h5>Data Analysis and Visualization</h5>
 <ul>
     <li>SPSS Statistics</li>
     <li>SQL (in progress)</li>
