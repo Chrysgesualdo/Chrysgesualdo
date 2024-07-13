@@ -24,6 +24,8 @@
 ## 📚 Education:
 - **Doctorate (Ph.D.) in Psychology** – Magna cum laude
   - Track: Development & Health, Philipps-University of Marburg, Germany (2020-2023)
+- **Master of Science in Data Science**
+  - Eastern University, Pennsylvania, USA (August 2024-Expected August 2025)
 - **Master of Science in Psychology**
   - Track: Development & Health – Health Promotion & Behavior Change, University of Amsterdam, Netherlands (2017-2018)
 - **Bachelor of Arts in Psychology**
@@ -41,7 +43,7 @@
 - Develop and teach seminars to Bachelor students
 - Supervise undergraduate and graduate dissertations
 
-### 09/2019 – 12/2023: Psychological Counselor
+### 09/2019 - 12/2023: Psychological Counselor
 **Ambulante Betreuungsdienst**, Mainz, Germany
 - Provide psychological counseling to disabled youth and adults
 - Design and deliver scientifically proven interventions
@@ -138,8 +140,8 @@
 
 ## 🗣️ Conferences
 - Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
-- Panelist at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
-- Attended Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
+- Presented at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
+- Presented at Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
 
 ## 📖 Publications
 [ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
