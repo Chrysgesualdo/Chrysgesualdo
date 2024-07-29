@@ -156,9 +156,23 @@
 
 
 ## 🗣️ Conferences
-- Presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
-- Presented at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
-- Presented at Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
+### Poster presented at International Society for the Study of Behavioral Development, 06/2022, Rhodes, Greece
+**Topic:** *Change in expected and actual health behaviors among first-year university students.*
+
+### Poster presented at Marburg Conference on Expectations and their Violations, 07/2023, Marburg, Germany
+**Topic:** *Predictors coping with health-related expectation violations among university students.*
+
+### Poster presented at Conference of the European Health Psychology Society, 09/2023, Bremen, Germany
+**Topic:** *Health behaviors of Colombian first-semester university students in association with behaviors of close social ties, living arrangement, and time spent with peers.*
+
+### Poster presented at Interdisciplinary Congress for Addiction Medicine, 07/2024, Munich, Germany
+**Topic:** *Inner commitment to abstinence as a success factor in inpatient alcohol withdrawal: Results of a prospective longitudinal study.*
+
+### Poster presented at German Addiction Congress, 09/2024, Cologne, Germany
+**Topic:** *Goal preference and treatment success in inpatient alcohol withdrawal: Results of a prospective longitudinal study.*
+
+                  
+
 
 ## 📖 Publications
 [ORCID: 0000-0001-9388-5714](https://orcid.org/0000-0001-9388-5714)
