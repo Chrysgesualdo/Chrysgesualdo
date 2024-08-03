@@ -31,56 +31,65 @@
 - **Bachelor of Arts in Psychology**
   - Minors: Business Management & French, Manhattanville University , New York, USA (2010-2014)
 - **Term Abroad** - Université Paul-Valéry III, Montpellier, France (08-12/2012)
-
+  
 ## 💼 Work Experience:
+
 ### 01/2024 - Present: Research Associate
 **Forel Clinic**, Zürich, Switzerland
-- Conduct scientific research and analyze data related to addiction
+- Conduct scientific research and analyze data related to addiction.
+- Develop and implement research methodologies and protocols.
+- Collaborate with interdisciplinary teams to publish findings.
+- Present research outcomes at national and international conferences.
 
 ### 05/2020 - 04/2024: Research & Teaching Associate
-**Philipps-University of Marburg**, Germany
-- Design, execute, and publish research in health psychology
-- Develop and teach seminars to Bachelor students
-- Supervise undergraduate and graduate dissertations
+**Philipps-University of Marburg**, Marburg, Germany
+- Design, execute, and publish research in health psychology.
+- Develop and teach seminars to Bachelor students.
+- Supervise undergraduate and graduate dissertations.
+- Manage and oversee research projects from conception to completion.
 
-### 09/2019 - 12/2023: Psychological Counselor
+### 09/2018 - 12/2023: Data Analysis & Program Implementation Consultant
 **Ambulante Betreuungsdienst**, Mainz, Germany
-- Provide psychological counseling to disabled youth and adults
-- Design and deliver scientifically proven interventions
-- Evaluate intervention’s effects on client's quality of life
+- Develop and implement data-driven behavioral interventions.
+- Conduct regular assessments to quantify intervention efficacy.
+- Analyze client data to identify trends and inform decision-making.
+- Refine and reimplement interventions based on data insights.
 
 ### 07/2022 - 10/2022: Guest Researcher
 **Universidad del Norte**, Barranquilla, Colombia
-- Designed and conducted a cross-cultural study
-- Collected and analyzed data for related publications
-
-### 01/2018 - 09/2018: Researcher & Intervention Design Intern
-**DREAM Project**, Puerto Plata, Dominican Republic
-- Evaluated an HIV prevention program targeting at-risk youth
-- Designed and imparted evidence-based parent-child intervention
-- Statistically evaluated intervention effects on behavior change
+- Design and conduct a cross-cultural study.
+- Collect and analyze data for related publications.
+- Collaborate with local researchers to enhance study relevance.
+- Present findings to academic and non-academic audiences.
 
 ### 10/2016 - 04/2017: Neuropsychology Researcher
 **Ruhr Universität**, Bochum, Germany
-- Researched spatial navigation in relation to Alzheimer’s Disease
-- Obtained practical experience on performing fMRI and EEG
+- Research spatial navigation in relation to Alzheimer’s Disease.
+- Obtain practical experience in performing fMRI and EEG.
+- Analyze neuroimaging data to identify patterns and correlations.
+- Contribute to peer-reviewed publications in neuropsychology.
 
 ### 08/2014 - 05/2016: Human Resources & Marketing Associate
 **WOBI - World of Business Ideas**, New York, USA
-- Structured event production for World Business Forum
-- Tracked budgets and expenses for conference
-- Assisted HR with recruitment and payroll processing
-- Monitored and created content for website and mobile app
+- Structure event production for World Business Forum.
+- Track budgets and expenses for conferences.
+- Assist HR with recruitment and payroll processing.
+- Monitor and create content for website and mobile app.
 
 ### 05/2013 - 12/2013: Clinical Informatics & Innovation Program Coordinator Intern
 **Pfizer Inc.**, New York, USA
-- Supported implementation of global initiative to transform clinical trials to an outsource partnership model (Pfizer Run Studies)
-- Created process guidance manual for specimen data tracking in vaccine clinical trials
+- Evaluate vendor proposals on healthcare interventions.
+- Analyze data on health data exchanges in the U.S.
+- Interpret clinical data analysis reports.
+- Report results to management for further implementation.
 
-### 06/2012 - 08/2012: Global Learning & Development Support Intern
+### 01/2012 - 12/2012: Global Learning & Development Support Intern
 **Pfizer Inc.**, New York, USA
-- Translated training material and organized documentation of version control processes for pharmaceutical distributors
-- Created process manuals for training and leadership facilitators
+- Work with Pfizer Health Solutions (PHS) team.
+- Research the impact of Pfizer programs and solutions on healthcare costs and quality of care.
+- Evaluate Pfizer's interventions and programs for improving healthcare delivery.
+- Prepare reports summarizing the research findings and present them to senior management.
+
 
 ## 📞 Connect with me:
 <p align="center">
