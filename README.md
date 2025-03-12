@@ -3,9 +3,10 @@
 </h1>
 <p align="center">
     <a href="https://github.com/Chrysgesualdo">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=0000FF&center=true&vCenter=true&width=700&height=100&lines=;+%7C+Psychologist+%26+Data+Scientist+%7C" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2000&pause=500&multiline=true&color=0000FF&center=true&vCenter=true&width=700&height=100&lines=+%7C+Behavioral+%26+Data+Scientist+%7C" alt="Typing SVG" />
     </a>
 </p>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Chrysgesualdo&label=Profile%20views&color=0e75b6&style=flat" alt="Chrys's Profile Views">
