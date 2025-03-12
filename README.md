@@ -33,64 +33,71 @@
   - Minors: Business Management & French, Manhattanville University , New York, USA (2010-2014)
 - **Term Abroad** - Université Paul-Valéry III, Montpellier, France (08-12/2012)
   
-## 💼 Work Experience:
+## 💼 Professional Experience
 
-### 01/2024 - Present: Research Associate
-**Forel Clinic**, Zürich, Switzerland
-- Conduct scientific research and analyze data related to addiction.
-- Develop and implement research methodologies and protocols.
-- Collaborate with interdisciplinary teams to publish findings.
-- Present research outcomes at national and international conferences.
+### 12/2024 – Present: **Behavioral & Data Science Consultant**  
+**Ambulante Betreuungsdienst**, Germany  
+- Design & deploy data-driven models & analytics workflows to optimize targeted interventions.  
+- Develop intervention strategies using statistical modeling (Python & R) & SQL for data preprocessing.  
+- Build predictive models to track behavioral trends & user engagement.  
+- Continuously improve intervention methodologies using statistical insights & performance metrics.  
 
-### 05/2020 - 04/2024: Research & Teaching Associate
-**Philipps-University of Marburg**, Marburg, Germany
-- Design, execute, and publish research in health psychology.
-- Develop and teach seminars to Bachelor students.
-- Supervise undergraduate and graduate dissertations.
-- Manage and oversee research projects from conception to completion.
+### 01/2024 – 11/2024: **Data Analyst & Researcher**  
+**Forel Clinic**, Switzerland  
+- Applied analytics to assess addiction treatment effectiveness & improve intervention strategies.  
+- Built predictive models to identify trends in addiction, integrating behavioral & clinical data.  
+- Designed dashboards to track outcomes & support evidence-based decisions.  
+- Optimized research protocols to improve data accuracy & clinical impact.  
+- Worked with clinicians & interdisciplinary teams to apply data science in intervention planning.  
+- Presented research findings at scientific conferences.  
 
-### 09/2018 - 12/2023: Data Analysis & Program Implementation Consultant
-**Ambulante Betreuungsdienst**, Mainz, Germany
-- Develop and implement data-driven behavioral interventions.
-- Conduct regular assessments to quantify intervention efficacy.
-- Analyze client data to identify trends and inform decision-making.
-- Refine and reimplement interventions based on data insights.
+### 05/2020 – 04/2024: **Doctoral Researcher & Teaching Associate**  
+**Philipps-University of Marburg**, Germany  
+- Led research projects using machine learning & statistical modeling.  
+- Developed predictive models for health behaviors.  
+- Extracted insights from large datasets via data mining & statistical analyses, visualized in Tableau.  
+- Published peer-reviewed research & presented findings at international conferences.  
+- Supervised dissertations & mentored junior researchers in data analytics.  
+- Taught undergraduate seminars on behavioral science.  
 
-### 07/2022 - 10/2022: Guest Researcher
-**Universidad del Norte**, Barranquilla, Colombia
-- Design and conduct a cross-cultural study.
-- Collect and analyze data for related publications.
-- Collaborate with local researchers to enhance study relevance.
-- Present findings to academic and non-academic audiences.
+### 07/2022 – 10/2022: **Behavioral Data Scientist – Research Fellow**  
+**Universidad del Norte**, Colombia  
+- Designed & led a cross-cultural behavioral study, applying statistical modeling to identify patterns across populations.  
+- Developed & automated pipelines for efficient data collection, cleaning, & preprocessing.  
 
-### 10/2016 - 04/2017: Neuropsychology Researcher
-**Ruhr Universität**, Bochum, Germany
-- Research spatial navigation in relation to Alzheimer’s Disease.
-- Obtain practical experience in performing fMRI and EEG.
-- Analyze neuroimaging data to identify patterns and correlations.
-- Contribute to peer-reviewed publications in neuropsychology.
+### 01/2018 – 09/2018: **Program Evaluation Data Scientist – Research Fellow**  
+**DREAM Project**, Dominican Republic  
+- Evaluated an HIV prevention program, using data analytics to assess impact.  
+- Designed & implemented evidence-based interventions, tracking behavioral outcomes with quantitative analytics.  
+- Applied statistical methods to measure intervention effectiveness & optimize strategies.  
+- Utilized natural language processing (NLP) to extract insights from qualitative data.  
 
-### 08/2014 - 05/2016: Human Resources & Marketing Associate
-**WOBI - World of Business Ideas**, New York, USA
-- Structure event production for World Business Forum.
-- Track budgets and expenses for conferences.
-- Assist HR with recruitment and payroll processing.
-- Monitor and create content for website and mobile app.
+### 10/2016 – 04/2017: **Neuroscience Research Fellow**  
+**Ruhr Universität**, Germany  
+- Collected & preprocessed fMRI & EEG data for studies on sleep, memory consolidation, & brain activity.  
+- Conducted behavioral experiments on spatial navigation & grid cell activity, using virtual environment-based paradigms to assess navigational strategies.  
+- Recruited participants & administered cognitive tasks, ensuring adherence to research protocols & data integrity.  
 
-### 05/2013 - 12/2013: Clinical Informatics & Innovation Program Coordinator Intern
-**Pfizer Inc.**, New York, USA
-- Evaluate vendor proposals on healthcare interventions.
-- Analyze data on health data exchanges in the U.S.
-- Interpret clinical data analysis reports.
-- Report results to management for further implementation.
+### 08/2014 – 10/2016: **Human Resources & Marketing Analyst**  
+**WOBI - World of Business Ideas**, New York, USA  
+- Applied HR analytics to refine recruitment strategies & improve workforce planning.  
+- Conducted consumer behavior analyses to optimize event marketing & audience targeting.  
+- Managed budget tracking & allocation, ensuring cost efficiency & financial oversight.  
+- Developed digital content & oversaw online platforms, enhancing brand visibility.  
 
-### 01/2012 - 12/2012: Global Learning & Development Support Intern
-**Pfizer Inc.**, New York, USA
-- Work with Pfizer Health Solutions (PHS) team.
-- Research the impact of Pfizer programs and solutions on healthcare costs and quality of care.
-- Evaluate Pfizer's interventions and programs for improving healthcare delivery.
-- Prepare reports summarizing the research findings and present them to senior management.
+### 05/2013 – 12/2013: **Clinical Informatics & Innovation Program Coordinator – Internship**  
+**Pfizer**, New York, USA  
+- Supported implementation of Pfizer Run Studies, transitioning clinical trials to an outsource partnership model.  
+- Developed & standardized documentation protocols for specimen data tracking in vaccine trials, ensuring regulatory compliance.  
+- Optimized clinical data workflows, improving trial efficiency & data accuracy.  
+- Collaborated with cross-functional teams to enhance data integration & streamline reporting processes.  
 
+### 06/2012 – 08/2012: **Global Learning & Development Associate – Internship**  
+**Pfizer**, New York, USA  
+- Created training documentation & analytics reports to assess learning outcomes.  
+- Developed process manuals to restructure leadership & onboarding programs.  
+- Translated & standardized training materials for global consistency.  
+- Managed version control documentation, improving compliance & accessibility.
 
 ## 📞 Connect with me:
 <p align="center">
